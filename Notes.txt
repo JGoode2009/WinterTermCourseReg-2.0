@@ -1,0 +1,18 @@
+Still working on creating links and most essentially how do I get it to take data from forms and to return them.
+Had an issue with post vs get, and maybe also url form
+      notes for 11/16
+
+  It looks like the url_for part is the part that is causing the internal server error.
+....yup it worked after i deleted url for and just inserted the page name...(lmfao, well I guess you just gotta try stuff sometimes)
+
+now need to figure out how to link login to welcome page.
+
+11/17
+cooking with gas! Welcome page linked to name_entrance linked to course list.
+Next steps, make course list some sort of list where user can order from fave to lfave, that can be saved (CRUD)
+Add CSS style sheet, set a base html parent
+Future steps
+  make an attractive input grid
+  maybe change from login with known password have students pick own password first
+  Counselor side
+    make a counter that lets counselors know how many in each class and lets put in each class
